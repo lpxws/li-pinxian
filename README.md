@@ -1,6 +1,6 @@
 # li-pinxian
-## Personal Technical Demo for ACS RPL Assessment
-This repository contains my personal technical demo projects, showcasing my skills in game development.
+## Personal Technical Demo & prototype
+This repository contains my personal technical demo projects, including prototypes and released indie games.
 
 ### 1. Flipull
 Unity 3D
